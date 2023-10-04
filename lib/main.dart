@@ -34,7 +34,6 @@ class StudentItem extends StatelessWidget {
   final String name;
   final String major;
   final int rate;
-  final IndexedWidgetBuilder itemBuilder;
 
 
   const StudentItem({super.key, required this.image, required this.id, required this.name, required this.major, required this.rate});
