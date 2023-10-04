@@ -65,18 +65,6 @@ class StudentItem extends StatelessWidget {
                     Text(name),
                     Text(major),
                   ],
-
-
-                         // getStars()
-
-
-                     // ListView(
-                     //   children: [
-                     //
-                     //   ],
-                     // )
-
-                  ],
                 ),
               ))
             ],
